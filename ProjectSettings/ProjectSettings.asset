@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: orsted corporation
   productName: vibing-click
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -149,7 +149,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 1.0
+  bundleVersion: 0.0.1
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -614,7 +614,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: vibing-click
-  metroPackageVersion: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -622,7 +622,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: vibing-click
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: vibing-click
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -694,7 +694,7 @@ PlayerSettings:
   cloudProjectId: efa54a4f-5914-4493-bedc-13a1e4d8117d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: vibing-click 2026-09-22_10-49-05
+  projectName: vibing-click
   organizationId: eaa_03
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
